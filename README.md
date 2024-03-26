@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **flutter, python, java**
 
-- 📫 How to reach me **malikzohaib@gmail.com**
+- 📫 How to reach me **malikzohaib1647@gmail.com**
 
 - ⚡ Fun fact **"Coding is our language, collaboration is our strength. Let's make history together! 🌍 #OpenSource"**
 
